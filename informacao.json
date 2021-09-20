@@ -1,0 +1,32 @@
+    {
+        "filmes": [
+            {
+                "imagem1": "images/2020496.jpg",
+                "imagem2": null,
+                "titulo": "Stranger Things",
+                "info": "Season 1 | 2016 | ★★★★★",
+                "sinopse": "Em 6 de Novembro, 1983 na pequena cidade de Hawkins, Indiana, o garoto de 12 anos, Will Byers desaparece misteriosamente. A mãe de Will, Joyce, torna-se frenética e tenta encontrar Will enquanto o chefe de polícia Jim Hopper começa a investigar, e assim fazem também os amigos de Will: Dustin, Mike e Lucas."
+            },
+            {
+                "imagem1": "images/filme2.jpg",
+                "imagem2": null,
+                "titulo": "John Wick",
+                "info": "Movie | 2019 | ★★★★",
+                "sinopse": "Após assassinar o chefe da máfia Santino D'Antonio (Riccardo Scamarcio) no Hotel Continental, John Wick (Keanu Reeves) passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de U$14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência."
+            },
+            {
+                "imagem1": "images/filme3.jpg",
+                "imagem2": null,
+                "titulo": "Stranger Things",
+                "info": "Season 1 | 2016 | ★★★★★",
+                "sinopse": "Em 6 de Novembro, 1983 na pequena cidade de Hawkins, Indiana, o garoto de 12 anos, Will Byers desaparece misteriosamente. A mãe de Will, Joyce, torna-se frenética e tenta encontrar Will enquanto o chefe de polícia Jim Hopper começa a investigar, e assim fazem também os amigos de Will: Dustin, Mike e Lucas."
+            },
+            {
+                "imagem1": "image/filme4",
+                "imagem2": null,
+                "titulo": "Stranger Things",
+                "info": "Season 1 | 2016 | ★★★★★",
+                "sinopse": "Em 6 de Novembro, 1983 na pequena cidade de Hawkins, Indiana, o garoto de 12 anos, Will Byers desaparece misteriosamente. A mãe de Will, Joyce, torna-se frenética e tenta encontrar Will enquanto o chefe de polícia Jim Hopper começa a investigar, e assim fazem também os amigos de Will: Dustin, Mike e Lucas."
+            }
+        ]
+    }
